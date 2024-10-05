@@ -1,0 +1,11 @@
+C:\Users\TOPTECH\source\C#\project 6 math quize\bin\Debug\project 6 math quize.exe.config
+C:\Users\TOPTECH\source\C#\project 6 math quize\bin\Debug\project 6 math quize.exe
+C:\Users\TOPTECH\source\C#\project 6 math quize\bin\Debug\project 6 math quize.pdb
+C:\Users\TOPTECH\source\C#\project 6 math quize\obj\Debug\project 6 math quize.csproj.AssemblyReference.cache
+C:\Users\TOPTECH\source\C#\project 6 math quize\obj\Debug\project_6_math_quize.Form1.resources
+C:\Users\TOPTECH\source\C#\project 6 math quize\obj\Debug\project_6_math_quize.Properties.Resources.resources
+C:\Users\TOPTECH\source\C#\project 6 math quize\obj\Debug\project 6 math quize.csproj.GenerateResource.cache
+C:\Users\TOPTECH\source\C#\project 6 math quize\obj\Debug\project 6 math quize.csproj.CoreCompileInputs.cache
+C:\Users\TOPTECH\source\C#\project 6 math quize\obj\Debug\project 6 math quize.exe
+C:\Users\TOPTECH\source\C#\project 6 math quize\obj\Debug\project 6 math quize.pdb
+C:\Users\TOPTECH\source\C#\project 6 math quize\obj\Debug\project_6_math_quize.Form2.resources
